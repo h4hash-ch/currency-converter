@@ -74,17 +74,7 @@ lib/
 ## 🔒 Security
 
 - API keys are stored in `.env` file (not tracked by Git)
-- Never commit your `.env` file to version control
-- Use `.env.example` as a template for other developers
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+- Use `.env.example` as a template for other developers to replace their own API key
 
 ## 📝 License
 
@@ -100,12 +90,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Exchange rate data provided by [CurrencyAPI.net](https://currencyapi.net)
 - Flutter team for the amazing framework
 - Icons from [Material Design](https://material.io/design)
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an issue on GitHub
-- Check existing issues for solutions
 
 ## 🔄 Version History
 
