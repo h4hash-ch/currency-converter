@@ -80,16 +80,16 @@ lib/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**h4hash-ch**
-- GitHub: [@h4hash-ch](https://github.com/h4hash-ch)
-
 ## 🙏 Acknowledgments
 
 - Exchange rate data provided by [CurrencyAPI.net](https://currencyapi.net)
 - Flutter team for the amazing framework
-- Icons from [Material Design](https://material.io/design)
+
+## Author Contact
+
+**Hashim Choudhry**  
+- GitHub: [@h4hash-ch](https://github.com/h4hash-ch)
+- Linkedin: [Connect with me](https://www.linkedin.com/in/hashim-choudhry)
 
 ## 🔄 Version History
 
